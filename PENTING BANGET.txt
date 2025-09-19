@@ -1,0 +1,2 @@
+saya ga pake trigger bu,tapi saya pakai UPDATE stok,tadi saya lupa bilang bu 
+tb_detail, ada kode PHP yang juga jalanin UPDATE tb_produk SET stok = stok - jumlah WHERE id = ...;.
